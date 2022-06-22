@@ -1,0 +1,62 @@
+nav{
+
+
+
+    background-color: rgb(255, 0, 0);
+    
+    
+    font-size: 35PX;
+    
+    margin: 10px;
+    
+    border-radius: 40px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+
+
+
+    a{
+
+        color: rgb(255, 255, 255);
+        
+        text-decoration: none;
+        font-family: Monospace ;
+        margin: 10px;
+        
+        }
+
+        p{
+
+font-size: 20px;
+
+font-family:Monospace  ;
+
+        }
+
+
+        .mnn{
+
+
+
+color: rgb(255, 255, 255);
+
+font-family: Monospace ;
+
+
+        }
+
+
+
+        button{
+
+
+            background-color: rgb(255, 0, 0);
+        }
+
+
+
+  
+
+
